@@ -11,7 +11,7 @@ built as part of a CFA Level 1 Python Skills Module project.
 - Analyst consensus price targets and forward earnings projections
 
 ## Key Finding
-A conflict emerged between historical and forward looking signals for MU and SNDK — 
+A conflict emerged between historical and forward looking signals for MU and SNDK - 
 both technically in Stage 2 Markup but with analyst consensus implying -16% and -22% 
 returns over 12 months. NVDA and AVGO showed consistent signals across all 4 layers.
 
@@ -19,7 +19,7 @@ returns over 12 months. NVDA and AVGO showed consistent signals across all 4 lay
 Python | yfinance | pandas | numpy | matplotlib | scipy | openpyxl
 
 ## Data Source
-Yahoo Finance via yfinance library — all models run live with updated data
+Yahoo Finance via yfinance library - all models run live with updated data
 
 ## Disclaimer
 This project is for educational purposes only and does not constitute financial advice.
